@@ -1,1 +1,4 @@
-{}
+{
+  "restrictBaseUrl": "https://matrix.storehex.com",
+  "externalAuthProvider": true
+}
